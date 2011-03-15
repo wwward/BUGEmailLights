@@ -1,0 +1,14 @@
+README
+
+BugEmailLights.py
+wwward
+March 2011
+wwward@pobox.com
+
+Prerequisites:
+1. Bug Labs Bug Base v1.x w/1.4.3 rootfs (the white colored model)
+2. Bug Labs Von Hippel Module
+3. imaplib.py loaded on Bug Base (/usr/lib/python2.5)
+4. A working IMAP mailbox.
+
+Review comments in Python script for configuration.
